@@ -1,0 +1,28 @@
+body {
+  min-height: 3000px;
+  background-color: #f4f4f4;
+}
+.jumbotron {
+  background-color: #d2fff3;
+  padding-top: 5rem;
+}
+
+.tech {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
+
+/* Disable grayscale on hover */
+.tech:hover {
+  -webkit-filter: grayscale(0);
+  filter: none;
+}
+
+#Projects {
+  background-color: #d2fff3;
+}
+
+section {
+  padding-top: 4rem;
+}
