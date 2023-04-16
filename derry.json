@@ -1,0 +1,45 @@
+{
+    "nama": "Derry Derajat",
+    "image_profile":"./public/ben.jpeg",
+    "interests": [
+        {
+            "name": "Web Developer",
+            "level": 9
+        },
+        {
+            "name": "Software QA",
+            "level": 9
+        }
+    ],
+    "signature": "Person who love to explore for web dev and QA",
+    "social_media": [
+        {
+            "name": "Linkedin",
+            "img_link": "./public/linkedinIcon.svg",
+            "url": "https://www.linkedin.com/in/derryderajat/"
+        },
+        {
+            "name": "Github",
+            "img_link": "./public/github.svg",
+            "url": "https://github.com/derryderajat"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Company Profile PT. UPT PLN Cilegon",
+            "url": "plnuptcilegon.vercel.app/",
+            "img_link": ""
+        },
+        {
+            "name": "Votingin Aja",
+            "url": "",
+            "img_link": ""
+        }
+    ],
+    "certifications": [
+        {
+            "name": "1",
+            "url": "./public/certificate.jpg"
+        }
+    ]
+}
